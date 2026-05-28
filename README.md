@@ -9,7 +9,11 @@ A responsive photography and filmmaking portfolio website for showcasing work, b
 - `logo.png`, `header.png`, `about.png`, `contact.png` - main site images
 - `portfolio-1.png` to `portfolio-7.png` - portfolio gallery images
 
-## View
+## Live Demo
+
+Website: https://b2304-comm.github.io/Photography/
+
+## View Locally
 
 Open `index.html` in a browser to view the website locally.
 
